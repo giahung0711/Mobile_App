@@ -1,0 +1,2 @@
+D:/FShop/android/app/.cxx/Debug/4y5i2711/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/FShop/android/app/.cxx/Debug/4y5i2711/arm64-v8a/CMakeFiles/rebuild_cache.dir
